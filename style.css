@@ -1,0 +1,13 @@
+body {
+    background-color: #00bfff;
+    color: yellow;
+    font-family: Comic Sans MS, cursive;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: orange;
+    border: none;
+    cursor: pointer;
+}
